@@ -1,0 +1,41 @@
+○	Tujuan Proses
+Proses bisnis ini bertujuan untuk mengelola pencatatan barang masuk dan keluar di gudang secara efisien, termasuk penerimaan barang, penyimpanan, pengecekan stok, dan pengeluaran barang.
+
+○	Aktor yang Terlibat
+  ■	Staff Gudang: Bertanggung jawab mencatat barang masuk dan keluar.
+  ■	Sistem Aplikasi Gudang: Memproses data pencatatan barang masuk, stok barang, dan barang keluar.
+  ■	Manajer Gudang: Mengawasi dan menyetujui pengeluaran barang.
+
+○	Langkah-Langkah Bisnis Proses
+  A.	Proses Pencatatan Barang Masuk:
+    1.	Penerimaan Barang:
+      a.	Aktor: Staff Gudang
+      b.	Deskripsi: Staff menerima barang yang dikirim oleh pemasok dan memeriksa kondisi barang.
+    2.	Pencatatan Barang Masuk:
+      a.	Aktor: Staff Gudang
+      b.	Deskripsi: Staff mencatat detail barang masuk (nama barang, jumlah, pemasok, tanggal masuk) ke dalam aplikasi.
+    3.	Penyimpanan Barang:
+      a.	Aktor: Staff Gudang
+      b.	Deskripsi: Barang disimpan di lokasi penyimpanan yang sesuai di gudang.
+    4.	Konfirmasi Penyimpanan:
+      a.	Aktor: Sistem Aplikasi Gudang
+      b.	Deskripsi: Sistem mengupdate stok barang dan menyimpan data pencatatan barang masuk.
+  B.	Proses Pencatatan Barang Keluar:
+    1.	Permintaan Pengeluaran Barang:
+      a.	Aktor: Manajer Gudang
+      b.	Deskripsi: Manajer membuat permintaan untuk mengeluarkan barang tertentu dari gudang.
+    2.	Pengecekan Stok:
+      a.	Aktor: Sistem Aplikasi Gudang
+      b.	Deskripsi: Sistem memeriksa ketersediaan stok barang yang diminta.
+    3.	Persetujuan Pengeluaran:
+      a.	Aktor: Manajer Gudang
+      b.	Deskripsi: Manajer menyetujui pengeluaran barang setelah pengecekan stok.
+    4.	Pencatatan Barang Keluar:
+      a.	Aktor: Staff Gudang
+      b.	Deskripsi: Staff mencatat detail barang keluar (nama barang, jumlah, tanggal keluar, tujuan).
+    5.	Pengeluaran Barang:
+      a.	Aktor: Staff Gudang
+      b.	Deskripsi: Staff mengambil barang dari gudang dan menyerahkannya ke pihak yang berwenang.
+    6.	Konfirmasi Pengeluaran:
+      a.	Aktor: Sistem Aplikasi Gudang
+      b.	Deskripsi: Sistem mengurangi stok barang dan menyimpan data pencatatan barang keluar.
