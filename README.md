@@ -13,9 +13,9 @@ The purpose of this project is to design an application for recording the invent
 ## Diagrams
 - Business Process Diagram: Outlines the flow from goods receipt to goods dispatch.
 - User Flow Diagram: Describes user interaction with the system.
-- **Database Design (ERD):** Illustrates the database structure for inventory management.
-- **Application Architecture Diagram:** Shows system components and interactions.
-- **Activity Diagrams:** Details the specific processes like goods receiving and dispatch.
+- Database Design (ERD): Illustrates the database structure for inventory management.
+- Application Architecture Diagram: Shows system components and interactions.
+- Activity Diagrams: Details the specific processes like goods receiving and dispatch.
 
 ## Features List
 - Detailed list of application features including:
