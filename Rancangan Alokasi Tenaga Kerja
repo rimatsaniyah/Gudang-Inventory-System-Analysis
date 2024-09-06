@@ -1,0 +1,63 @@
+○	Project Manager
+  ■	Jumlah: 1 Orang
+  ■	Uraian Tugas:
+    ●	Mengkoordinasikan seluruh tim proyek
+    ●	Memastikan proyek berjalan sesuai dengan timeline dan anggaran
+    ●	Mengelola komunikasi antara stakeholder dan tim pengembang
+    ●	Membuat laporan perkembangan proyek kepada manajemen
+
+○	System Analyst
+  ■	Jumlah: 1 Orang
+  ■	Uraian Tugas:
+    ●	Menganalisis kebutuhan bisnis dan menyusun spesifikasi sistem
+    ●	Membuat rancangan proses bisnis, user flow, dan arsitektur aplikasi
+    ●	Mendefinisikan fitur dan fungsi sistem
+    ●	Bekerja sama dengan tim pengembang untuk memastikan sistem sesuai spesifikasi
+
+○	UI/UX Designer
+  ■	Jumlah: 1 Orang
+  ■	Uraian Tugas:
+    ●	Merancang antarmuka pengguna yang intuitif dan user-friendly
+    ●	Membuat wireframes, mockups, dan prototipe aplikasi
+    ●	Melakukan pengujian desain dengan pengguna untuk mendapatkan feedback
+    ●	Menyusun panduan desain (design guidelines) untuk pengembang
+
+○	Backend Developer
+  ■	Jumlah: 2 Orang
+  ■	Uraian Tugas:
+    ●	Mengembangkan server-side logic dan arsitektur database
+    ●	Membuat API untuk integrasi dengan front-end
+    ●	Mengimplementasikan fitur-fitur utama seperti pencatatan barang masuk dan keluar, manajemen stok
+    ●	Mengoptimalkan performa aplikasi dan memastikan keamanan data
+
+○	Frontend Developer
+  ■	Jumlah: 1 Orang
+  ■	Uraian Tugas:
+    ●	Mengembangkan antarmuka pengguna aplikasi berdasarkan desain dari UI/UX Designer
+    ●	Mengimplementasikan interaksi dan animasi pada aplikasi
+    ●	Berkolaborasi dengan backend developer untuk integrasi API
+    ●	Memastikan aplikasi responsif dan kompatibel di berbagai perangkat
+
+○	Quality Assurance (QA) Tester
+  ■	Jumlah: 1 Orang
+  ■	Uraian Tugas:
+    ●	Menguji aplikasi untuk memastikan tidak ada bug atau kesalahan
+    ●	Melakukan pengujian fungsional, pengujian performa, dan pengujian keamanan
+    ●	Menyusun laporan bug dan bekerja sama dengan pengembang untuk perbaikan
+    ●	Melakukan regression testing setelah bug diperbaiki
+
+○	DevOps Engineer
+  ■	Jumlah: 1 Orang
+  ■	Uraian Tugas:
+    ●	Mengelola infrastruktur server dan deployment aplikasi
+    ●	Mengimplementasikan CI/CD pipelines untuk otomatisasi pengembangan
+    ●	Memastikan aplikasi berjalan lancar di lingkungan produksi
+    ●	Mengelola monitoring dan logging untuk performa aplikasi
+
+○	Technical Support
+  ■	Jumlah: 1 Orang
+  ■	Uraian Tugas:
+    ●	Memberikan dukungan teknis kepada pengguna aplikasi
+    ●	Menangani masalah dan pertanyaan dari staf gudang dan manajer
+    ●	Membantu dalam proses pelatihan pengguna terkait penggunaan aplikasi
+    ●	Menyusun dokumentasi teknis dan panduan pengguna
